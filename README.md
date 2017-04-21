@@ -1,2 +1,2 @@
 # CTF
-CTF Challenges write posts
+CTF Challenges Write-Ups
